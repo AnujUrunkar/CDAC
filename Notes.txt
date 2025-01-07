@@ -1,4 +1,4 @@
-git clone 
+
 git status ----> compare local and remote repostiory to check untracked files and modified files
 
 git add brs.md ---> to add files in the staging are and appeared in green 
